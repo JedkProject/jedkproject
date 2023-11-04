@@ -1,12 +1,11 @@
 <div align="center">
-  <img height="150" src="https://cdn.discordapp.com/attachments/1134070336531468349/1143001169724178563/main.png"  />
+  <img height="150" src="[https://cdn.discordapp.com/attachments/1134070336531468349/1143001169724178563/main.png](https://cdn.discordapp.com/attachments/1134070336531468349/1164819152893124648/IMG_4412.jpg)"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
