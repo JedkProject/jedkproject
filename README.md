@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm Beer from Thailand<br><br>- 🔭 I’m working as TEMPLE<br>- 📚 I'm currently learning HACKING YOU'RE PC<br>- ⚡ In my free time I Play Games</p>
+<p align="left">I'm Beer from Thailand<br><br>- 🔭 I’m working with your Mom<br>- 📚 I'm currently learning HACKING YOU'RE PC<br>- ⚡ In my free time I Play Games</p>
 
 ###
 
